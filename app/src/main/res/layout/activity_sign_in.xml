@@ -9,7 +9,7 @@
     <Button
         android:id="@+id/bSignIn"
         android:layout_width="182dp"
-        android:layout_height="47dp"
+        android:layout_height="48dp"
         android:text="Sign With Google"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
